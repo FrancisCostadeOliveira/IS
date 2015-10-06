@@ -6,10 +6,10 @@ import java.util.List;
 import org.junit.Assert;
 import org.junit.Test;
 
-import br.unibh.pessoas.entidades.PessoaFisica;
-import br.unibh.pessoas.entidades.PessoaJuridica;
 import br.unibh.pessoas.persistencia.PessoaFisicaDAO;
 import br.unibh.pessoas.persistencia.PessoaJuridicaDAO;
+import br.unibh.servicospessoas.entidades.PessoaFisica;
+import br.unibh.servicospessoas.entidades.PessoaJuridica;
 
 public class Testes {
 

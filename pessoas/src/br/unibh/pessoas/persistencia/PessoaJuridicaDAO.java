@@ -6,7 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.unibh.pessoas.entidades.PessoaJuridica;
+import br.unibh.servicospessoas.entidades.PessoaJuridica;
 
 public class PessoaJuridicaDAO implements DAO<PessoaJuridica, Long> {
 
